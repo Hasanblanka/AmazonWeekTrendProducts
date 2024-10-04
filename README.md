@@ -1,0 +1,2 @@
+# AmazonWeekTrendProducts
+AmazonWeekTrendProducts
