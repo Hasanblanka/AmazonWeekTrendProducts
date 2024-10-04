@@ -1,6 +1,4 @@
 # AmazonWeekTrendProducts
-AmazonWeekTrendProducts
-
 
 Data Scraping with Selenium and Visualization with Power BI
 This project involves the collection of data using the web scraping technology Selenium and its visualization through Power BI. The goal of the project is to understand customer behavior and analyze sales trends.
